@@ -5,7 +5,6 @@ sectionHistoire_de_l.tex
 4hjr3v0ld1o.html
 ipkft5jp00o.html
 nuq61asodv.html
-k64sa9ts62.tex
 nka9a12b1u.html
 g5dogbn92to.tex
 l5arek3dug8.html
