@@ -5,4 +5,9 @@ sectionHistoire_de_l.tex
 sectionLorganisation.tex
 sectionPartenariats_.tex
 4hjr3v0ld1o.html
+057d111uavg.html
+fmmqgn24cuo.html
+a54iu48tmpg.html
+s83ck6dple.html
+i73ug07eg88.html
 hdtkvvr1qgo.html
