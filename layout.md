@@ -3,6 +3,8 @@ figures/cemosis
 vspace05cm__SepRule.tex
 sectionHistoire_de_l.tex
 4hjr3v0ld1o.html
+g5dogbn92to.tex
+l5arek3dug8.html
 057d111uavg.html
 fmmqgn24cuo.html
 a54iu48tmpg.html
