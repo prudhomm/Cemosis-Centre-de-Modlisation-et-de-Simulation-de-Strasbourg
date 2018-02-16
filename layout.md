@@ -4,7 +4,6 @@ vspace05cm__SepRule.tex
 sectionHistoire_de_l.tex
 4hjr3v0ld1o.html
 p5jliqfej7o.html
-figures/feelpp-dsel-300x300
 7fo4f2lu2n8.html
 ipkft5jp00o.html
 nuq61asodv.html
