@@ -2,7 +2,6 @@ JournalNameCentre_de.tex
 figures/cemosis
 vspace05cm__SepRule.tex
 sectionHistoire_de_l.tex
-sectionLorganisation.tex
 4hjr3v0ld1o.html
 057d111uavg.html
 fmmqgn24cuo.html
