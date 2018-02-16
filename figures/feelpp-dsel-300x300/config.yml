@@ -1,0 +1,19 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/feelpp-dsel-300x300/feelpp-dsel-300x300.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/142194/articles/286939/master/file/figures/feelpp-dsel-300x300/feelpp-dsel-300x300.png"
