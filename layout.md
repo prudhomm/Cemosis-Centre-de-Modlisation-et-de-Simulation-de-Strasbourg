@@ -9,9 +9,5 @@ figures/mso4sc-high-level-view
 2luph7tifgg.html
 tu82rifigm8.html
 l5arek3dug8.html
-057d111uavg.html
-fmmqgn24cuo.html
-a54iu48tmpg.html
-s83ck6dple.html
 i73ug07eg88.html
 hdtkvvr1qgo.html
