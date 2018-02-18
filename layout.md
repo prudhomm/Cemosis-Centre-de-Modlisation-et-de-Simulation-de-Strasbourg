@@ -9,4 +9,6 @@ figures/mso4sc-high-level-view
 2luph7tifgg.html
 tu82rifigm8.html
 i73ug07eg88.html
+figures/hager_scheme
+t8e7dr6d1bo.html
 hdtkvvr1qgo.html
