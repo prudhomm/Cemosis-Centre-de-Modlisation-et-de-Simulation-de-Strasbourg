@@ -8,6 +8,5 @@ nuq61asodv.html
 figures/mso4sc-high-level-view
 2luph7tifgg.html
 tu82rifigm8.html
-l5arek3dug8.html
 i73ug07eg88.html
 hdtkvvr1qgo.html
