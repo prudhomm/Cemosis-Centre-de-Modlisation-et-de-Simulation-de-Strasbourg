@@ -1,4 +1,3 @@
-JournalNameCentre_de.tex
 figures/cemosis
 sectionHistoire_de_l.tex
 4hjr3v0ld1o.html
