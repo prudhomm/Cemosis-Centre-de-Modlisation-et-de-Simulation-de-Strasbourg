@@ -1,6 +1,5 @@
 JournalNameCentre_de.tex
 figures/cemosis
-vspace05cm__SepRule.tex
 sectionHistoire_de_l.tex
 4hjr3v0ld1o.html
 ipkft5jp00o.html
