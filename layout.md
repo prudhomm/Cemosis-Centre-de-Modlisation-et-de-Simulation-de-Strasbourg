@@ -1,11 +1,4 @@
 figures/cemosis
 sectionHistoire_de_l.tex
-4hjr3v0ld1o.html
-ipkft5jp00o.html
 figures/mso4sc-high-level-view
-2luph7tifgg.html
-tu82rifigm8.html
-i73ug07eg88.html
 figures/hager_scheme
-t8e7dr6d1bo.html
-hdtkvvr1qgo.html
